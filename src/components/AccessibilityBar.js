@@ -13,6 +13,8 @@ export function AccessibilityBar() {
       i18n.changeLanguage(language);
   }
 
+  //Adding a commentary
+
   return (
     <div>
         <header>
